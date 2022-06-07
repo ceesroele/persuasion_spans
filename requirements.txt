@@ -1,0 +1,6 @@
+spacy >= 3.3.0, <4.0.0
+# spacy[cuda]          # If you have and want to use a GPU. If so, set it in project.yml, e.g. gpu_id=0
+# spacy[transformers]  # For using transformer models
+pandas
+jupyterlab
+seaborn

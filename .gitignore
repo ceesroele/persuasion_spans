@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# spaCy
+project.lock
+metrics/
+assets/
+corpus/
